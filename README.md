@@ -17,13 +17,11 @@ Required Python packages installed: `os`, `math`, `google.auth.transport.request
 
 ```Desafio-Tunts.Rocks-2024```
 
-3. Download credentials.json file and place it in the project directory.
-
-4. Run the script:
+3. Run the script:
 
 ```main.py```
 
-5. Follow the on-screen instructions to authenticate and authorize the application.
+4. Follow the on-screen instructions to authenticate and authorize the application.
 
 ## Important Notes
 ### Token File (token.json): This file stores the user's access and refresh tokens. If it doesn't exist, the application will guide you through the authentication flow to generate it.
