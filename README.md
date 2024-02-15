@@ -1,7 +1,7 @@
-### Overview
+## Overview
 This Python script demonstrates the basic usage of the Google Sheets API to interact with a specific spreadsheet. The application fetches values from the specified range in the spreadsheet, performs calculations, and updates the spreadsheet with the results.
 
-### Prerequisites
+## Prerequisites
 Before running the application, ensure you have the following:
 Python installed (version 3.6 or higher)
 Required Python packages installed: `os`, `math`, `google.auth.transport.requests`, `google.oauth2.credentials`, `google_auth_oauthlib.flow`, `googleapiclient.discovery`, `googleapiclient.errors`
